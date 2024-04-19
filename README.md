@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Gabriel Campos!!
 - 👀 Estou sempre em busca de desafios no universo da tecnologia e programação  
-- 🌱 Atualmente estou estudando Java, e Angular 10
-- 💞️ Tenho uma Loja virtual com código aberto para ser explorado..
+- 🌱 Atualmente estou estudando Flutter
+- 💞️ Estou construindo um app de compras e entregas de delivery opensource...
 - 📫 gabrielcampos.dgr@hotmail.com 
 - TKSS!! 
